@@ -1,0 +1,23 @@
+{
+  "name": "cucumber-todo-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisparra-repo/cucumber-todo-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisparra-repo/cucumber-todo-react/issues"
+  },
+  "homepage": "https://github.com/denisparra-repo/cucumber-todo-react#readme",
+  "dependencies": {
+    "cucumber": "^7.0.0-rc.0",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
