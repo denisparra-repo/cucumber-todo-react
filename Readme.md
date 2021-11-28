@@ -10,6 +10,9 @@ Use the package manager [npm](https://nodejs.org/es/) to install the app.
 npm start
 ```
 
+## Pre-Condition
+You need to download the gecko driver for chrome according your chrome version you can dowload [here](https://chromedriver.chromium.org/downloads)  
+
 ## Usage
 
 You need to have up the [todoApp](https://github.com/denisparra-repo/react-to-do) and add the URL int he ```SYSTEM_IP``` as environment variable before running it.
