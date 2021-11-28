@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/cucumber-js"
+    "test": "cross-env NODE_ENV=test ./node_modules/.bin/cucumber-js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "dependencies": {
     "cucumber": "^7.0.0-rc.0",
     "selenium-webdriver": "^4.1.0"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
