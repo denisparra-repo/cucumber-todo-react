@@ -11,7 +11,7 @@ npm start
 ```
 
 ## Pre-Condition
-You need to download the gecko driver for chrome according your chrome version you can dowload [here](https://chromedriver.chromium.org/downloads)  
+You need to download the gecko driver for chrome according your chrome version you can dowload [here](https://chromedriver.chromium.org/downloads) and also you need to add this in our path in order to run selenium webdriver.
 
 ## Usage
 
